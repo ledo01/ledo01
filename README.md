@@ -6,7 +6,7 @@ My name is Olivier Leduc and I'm a full stack developer at Groupe Dynamite.
 
 ## 👨‍💻 What I am up to 
 
-[![ledo01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ledo01)](https://github.com/anuraghazra/github-readme-stats)
+[![ledo01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ledo01)](https://wakatime.com/@ledo01)
 
 
 <!--
