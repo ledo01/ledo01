@@ -2,7 +2,7 @@
 
 My name is Olivier Leduc and I'm a full stack developer at Groupe Dynamite.
 
-<h3> <a href="https://blog.oleduc.com">Blog 📚</a> • <a href="mailto:leduc.o@gmail.com">Email</a></h3>
+<h3> <a href="https://blog.oleduc.com">Blog 📚</a> • <a href="mailto:leduc.o@gmail.com">Email ✉️</a></h3>
 
 ## 👨‍💻 What I am up to 
 
