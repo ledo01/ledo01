@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Olivier Leduc and I'm a full stack developer at Groupe Dynamite.
+My name is Olivier Leduc and I'm a full stack developer at [Hive.co 🐝](https://www.hive.co/)
 
 <h3> <a href="https://blog.oleduc.com">Blog 📚</a> • <a href="mailto:leduc.o@gmail.com">Email ✉️</a></h3>
 
