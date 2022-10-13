@@ -4,10 +4,11 @@ My name is Olivier Leduc and I'm a full stack developer at [Hive.co 🐝](https:
 
 <h3> <a href="https://blog.oleduc.com">Blog 📚</a> • <a href="mailto:leduc.o@gmail.com">Email ✉️</a></h3>
 
+<!--
 ## 👨‍💻 What I am up to 
 
 [![ledo01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ledo01)](https://wakatime.com/@ledo01)
-
+-->
 
 <!--
 **ledo01/ledo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
