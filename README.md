@@ -1,11 +1,11 @@
 # Hi there 👋
 
-My name is Olivier Leduc and I'm a full stack developer at [Hive.co 🐝](https://www.hive.co/)
+My name is Olivier Leduc and I'm a full stack developer at [BoostSecurity ♾️](https://boostsecurity.io/)
 
 <h3> <a href="https://blog.oleduc.com">Blog 📚</a> • <a href="mailto:leduc.o@gmail.com">Email ✉️</a></h3>
 
 <!--
-## 👨‍💻 What I am up to 
+## 👨‍💻 What I am up to
 
 [![ledo01's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ledo01)](https://wakatime.com/@ledo01)
 -->
