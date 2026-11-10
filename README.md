@@ -1,9 +1,6 @@
 # Hi there 👋
 
-My name is Olivier Leduc and I'm a full stack developer at [BoostSecurity ♾️](https://boostsecurity.io/)
-
-<h3> <a href="https://blog.oleduc.com">Blog 📚</a> • <a href="mailto:leduc.o@gmail.com">Email ✉️</a></h3>
-
+My name is Olivier Leduc and I'm a senior backend developer at [Assembler AI](https://www.assembler-ai.com/)
 <!--
 ## 👨‍💻 What I am up to
 
